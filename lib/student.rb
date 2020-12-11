@@ -2,7 +2,9 @@ class Student
   attr_accessor :name, :grade
   attr_reader :id
   
-  def 
+  def initialize (name, grade, id=nill)
+    
+  end 
    
   
 end
